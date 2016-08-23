@@ -1,0 +1,14 @@
+layout_spectrum: 0.30983012286014855
+typography_spectrum: 0.2487784919794649
+color:
+  brandStrength: 0.3008562312461436
+  lightness: 0.2548389630392194
+  saturation: 0.7945255304221064
+  rhythmicContrast: 0.3584941974841058
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Renovation
