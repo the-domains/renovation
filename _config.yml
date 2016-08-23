@@ -1,4 +1,3 @@
-layout_spectrum: 0.30983012286014855
 typography_spectrum: 0.2487784919794649
 color:
   brandStrength: 0.3008562312461436
@@ -6,9 +5,11 @@ color:
   saturation: 0.7945255304221064
   rhythmicContrast: 0.3584941974841058
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.30983012286014855
 name: Renovation
+title: Remodelling our house
